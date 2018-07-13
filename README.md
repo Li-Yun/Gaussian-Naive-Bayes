@@ -1,1 +1,3 @@
 # Gaussian-Naive-Bayes
+
+# Usage
