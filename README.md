@@ -1,5 +1,6 @@
 # Gaussian-Naive-Bayes
-This 
+This progrgam is a spambase data application througg Gaussian Naïve Bayes <br />
+based on the UCI ML repository (https://archive.ics.uci.edu/ml/datasets/Spambase). <br />
 
 
 
